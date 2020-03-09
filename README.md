@@ -16,6 +16,7 @@
     <li>Mileslife Final Presentation.pdf: Presentation Material.</li>
 </ul>
 </li>
+</ul>
 <p> 
 <p>_______________________________________________________________
 <p> 
@@ -42,7 +43,7 @@
 <p>In order to visualize the data to assess the merchant partnerships based on the quantity and magnitude of transactions, we first plotted a chart to determine which type of restaurant is most popular and attractive. It was noticeable that the number of restaurants for different types of cuisine varied widely. In order to avoid bias, we examined the average transaction frequency for each type of restaurant instead of total transaction frequency. As seen in Figure 1 below, Ramen and Chinese cuisines are the most popular types in Hong Kong. The same results were obtained even when we checked across days of week and times of day. Next, we noticed more transactions on Fridays, Saturdays and Sundays, which makes sense as people are more willing to dining out on weekends. As for the hours for payment, it indicated that 1.30 pm and 2.00 pm were the peak hours of usage which are usual times that people would conclude their meals at.
 <p>In addition, we analyzed the customer loyalty of a restaurant by using the average transactions of a unique customer in that restaurant. Figure 2 shows that Tuisi & Wine had the highest consistent customer loyalty, where every customer seemed to frequent it at least five times over year. Another finding is that the restaurants with the most customer loyalty are probably the chain stores in the subway station or at the airport - chain stores are highly convenient and airport stores fit into our customer demographics of middle to high income users who are frequent travellers.
 ​<p>To evaluate and predict the effectiveness of future merchant partnerships, we tried to use linear regression, decision trees and k-means clustering to predict the the performance of a new potential merchant partner with similar attributes. The models and their results are recorded in the code file.
-​<ol>
+​</ol>
 ​<p> 
 <h4>Analytics on Campaign Effectiveness</h4>
 <ol>
@@ -57,6 +58,7 @@
 <li> Which area is most sensitive to the bonus miles multiplier?
 To assess whether an increase in the multipliers for bonus miles provides significant improvement in the transaction intensity and revenue earnings, we chose two campaigns of the same type and airline (‘2x miles Avios’ and ‘Dah Sing 2.5X Avios’), and did a Difference-in-Difference Analysis on them. Overall, all of the districts react positively to the increase in bonus mile multiplier, but the suburban areas show a larger sensitivity to the an increase in the bonus miles multiplier value. 
 <p> 
+</ol>
 <h4>Conclusion</h4>
  <p>To sum, for campaign strategies, we should f​ocus on specific districts in different campaigns, implement more festival- specific campaigns and increase the bonus miles multiplier by a greater magnitude for suburban areas where transactions are most sensitive to changes in the multiplier. In assessing the quality of merchant partnerships, we notice that users favor restaurants specializing in Japanese ramen, Shanghai, Yunnan cuisine, according to the Asian palette, and that there is room to reward or continue with existing partners with good customer loyalty such as Tulsi and Wine. It is also noted that while we have the largest number of Western restaurants, they have far lower transaction frequency (total transactions/total number of restaurants).
 <p> 
